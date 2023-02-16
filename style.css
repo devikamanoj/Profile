@@ -1,0 +1,42 @@
+#name{
+    font-size: 50px;
+    text-align: center;
+}
+.center{
+    display: block;
+    margin-right: auto;
+    width: 25%;
+}
+.col{
+    text-align: justify;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+}
+.about{
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 20px;
+}
+.colg{
+    text-align: left;
+}
+p {
+    margin-right: 25%;
+    margin-left: 25%;
+  }
+.me{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+.icons{
+    padding-left: 25%;
+    display: block;
+    margin: auto;
+}
+
