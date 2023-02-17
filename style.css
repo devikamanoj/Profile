@@ -2,6 +2,12 @@
     font-size: 50px;
     text-align: center;
 }
+#iname{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: -26px;
+    margin-top: -46px;
+}
 .center{
     display: block;
     margin-right: auto;
@@ -39,4 +45,29 @@ p {
     display: block;
     margin: auto;
 }
-
+.heads{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.mainme{
+    display:block;
+    background-position: center;
+    margin:100px auto;
+    width:200px;
+    border-radius: 50%;
+    border:1px solid black;
+}
+.cenfoot{
+    text-align: center;
+}
+.bbt{
+    background-position: center;
+    margin:100px auto;
+    width:100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -26px;
+    margin-top: 6px;
+}
